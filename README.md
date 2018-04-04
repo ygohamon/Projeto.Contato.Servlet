@@ -1,9 +1,8 @@
 # Projeto.Contato.Servlet
 Banco de Dados usado MySql
 ---------------------------------------------------
-Codigo do Banco
-||||||||||||||||||||
-VVVVVVVVVVVVVVVVVVVV
+Codigo do Banco: >>>
+
 CREATE DATABASE BASE;
 USE BASE;
 CREATE TABLE CONTATO(
